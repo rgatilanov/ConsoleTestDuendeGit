@@ -1,0 +1,11 @@
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\bin\Debug\TestConsoleDuende.exe.config
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\bin\Debug\TestConsoleDuende.exe
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\bin\Debug\TestConsoleDuende.pdb
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\bin\Debug\Newtonsoft.Json.dll
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\bin\Debug\Newtonsoft.Json.xml
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\obj\Debug\TestConsoleDuende.csproj.AssemblyReference.cache
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\obj\Debug\TestConsoleDuende.csproj.SuggestedBindingRedirects.cache
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\obj\Debug\TestConsoleDuende.csproj.CoreCompileInputs.cache
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\obj\Debug\TestConsoleDuende.csproj.CopyComplete
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\obj\Debug\TestConsoleDuende.exe
+G:\EjerciciosMTWDM2022\TestConsoleDuende\TestConsoleDuende\obj\Debug\TestConsoleDuende.pdb
